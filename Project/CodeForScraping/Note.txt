@@ -1,0 +1,7 @@
+Data Acquisition      
+4 .py files in total, 2 use scrapy, 2 use pandana
+
+1. austinzip.txt contains all zipcode needed for scraping.
+2. Two spider files under zillow/spiders.
+3. NetworkAccessibilitySimple.py and NetworkAccessibilityFull.py use Pandana package to collect more geographical information.
+4. Aus2.csv is the final output datafile
